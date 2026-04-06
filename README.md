@@ -32,9 +32,8 @@ Plataforma web desenvolvida para o gerenciamento e agendamento de quadras e espa
 ---
 
 ## 📁 Estrutura do Projeto
-## 📁 Estrutura do Projeto
 
-/reserva-quadras
+```/reserva-quadras
 ├── /frontend
 │   ├── /public
 │   │   ├── index.php
@@ -56,4 +55,4 @@ Plataforma web desenvolvida para o gerenciamento e agendamento de quadras e espa
 │   └── schema.sql
 │
 ├── .gitignore
-└── README.md
+└── README.md```
